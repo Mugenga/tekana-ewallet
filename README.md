@@ -103,7 +103,7 @@ I establish a robust monitoring and maintenance system to ensure continuous opti
 By breaking down the project into these phases and following this step-by-step strategy, I believe we can effectively manage and successfully complete our project.
 
 
-## Installation
+## Sourcecode Installation
 
 ```bash
 $ npm install
@@ -134,17 +134,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
